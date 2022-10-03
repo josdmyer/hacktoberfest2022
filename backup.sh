@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Local variables
-default_src="$HOME/Downloads/Movies/HD/"
-default_dest="/Volumes/My\ Passport/Movies/HD/"
+default_src="$HOME/Downloadsfiles/"
+default_dest="/Volumes/My\ Passport/files/"
 
 usage()
 {
